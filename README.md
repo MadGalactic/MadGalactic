@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm Madeline, a web developer exploring 
+- application and cloud security
+- ethical hacking
+- integrating compliance frameworks to strengthen security posture
+
+I'm passionate about learning and enjoy breaking into apps that I build. 
+
+### Connect with me on LinkedIn 
+
 <!--
 **MadGalactic/MadGalactic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
