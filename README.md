@@ -1,7 +1,7 @@
 ## Hi, I'm Madeline 💫 
 
 🌷 Security engineer sharing about my journey and learnings in tech<br>
-👩🏾‍🔬 Exploring web development, security, and ethical hacking<br>⌨️ Learning in public via my [portfolio](https:www.madelinelora.com)<br>
+👩🏾‍🔬 Exploring web development, application security, and ethical hacking<br>⌨️ Learning in public via my [portfolio](https:www.madelinelora.com)<br>
 💭 Currently diving deeper into pentesting and building web-apps with Spring Security 🤓 <br>
 
 
