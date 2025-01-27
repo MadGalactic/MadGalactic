@@ -1,6 +1,6 @@
 ## Hi, I'm Madeline! 
 
-♦️ Security engineer sharing about my journey and learnings in tech </br>
+🌷 Security engineer sharing about my journey and learnings in tech </br>
 👩🏾‍🔬 Exploring web development, security, and ethical hacking </br>
 ⌨️ Blogging about my latest proejcts on [my portfolio](https://madelinelora.com/) </br>
 💭 Currently diving deeper into pentesting and building web-apps with Spring Security 🤓</br>
