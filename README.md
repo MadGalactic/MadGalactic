@@ -1,25 +1,11 @@
-## Hi there 👋
+## Hi, I'm Madeline! 
 
-I'm Madeline, a web developer exploring 
-- application and cloud security
-- ethical hacking
-- integrating compliance frameworks to strengthen security posture
+♦️ Security engineer sharing about my journey and learnings in tech </br>
+♦️ Exploring web development, security, and ethical hacking </br>
+♦️ Blogging about my latest proejcts on [my portfolio](https://madelinelora.com/) </br>
+♦️ Currently diving deeper into pentesting and building web-apps with Spring Security 🤓</br>
 
-I'm passionate about learning and enjoy breaking into apps that I build. 
+ <!-- Github stats from https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file -->
+ ![Madeline's GitHub stats](https://github-readme-stats.vercel.app/api?username=madgalactic&show_icons=true&theme=radical)
 
-### Connect with me on LinkedIn 
 
-<!--
-**MadGalactic/MadGalactic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
