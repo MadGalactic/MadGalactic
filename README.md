@@ -1,7 +1,7 @@
 ## Hi, I'm Madeline 💫 
 
 🌷 Cybersecurity Analyst sharing about my journey and learnings in tech<br>
-👩🏾‍🔬 Exploring how to secure the web one project at a time<br>⌨️ Learning in public via my [portfolio](https://madelinelora.com/)<br>
+👩🏾‍🔬 Exploring security concepts one project at a time<br>⌨️ Learning in public via my [portfolio](https://madelinelora.com/)<br>
 💭 Currently diving deeper into scripting with python 🤓 <br>
 
 
